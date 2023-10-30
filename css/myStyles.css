@@ -1,0 +1,87 @@
+head {
+    background-color: black;
+}
+
+
+#head {
+    background-color: rgb(212, 212, 212);
+
+}
+
+body {
+    color: rgb(40, 40, 40);;
+}
+
+h3 {
+    font-family: 'Baskervville', serif;
+}
+
+h6 {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: #520006;
+}
+
+
+section, nav {
+    font-family: 'Quicksand', sans-serif;
+}
+
+#imgmar {
+    vertical-align: bottom;
+}
+
+/*---------------------------------------------------------*/
+/*NAV BAR*/
+
+#navbar {
+    background-color: rgb(40, 40, 40);
+    padding: 21px;
+    font-size: 13px;
+    position: sticky;
+    top: 0;
+
+}                                                                                                                                                                                        
+
+#navbar a {
+    text-decoration: none;
+    padding: 25px;
+    color: white;
+
+}
+
+#navbar li {
+
+    float: right;
+    
+}
+
+
+#navbar ul {
+
+    list-style-type: none;
+}
+
+ 
+#navbar a:hover {
+
+    background-color: #520006;
+    padding: 20px;
+} 
+
+/* #navbar a:visited {
+
+    color: white;
+} */
+
+/* 
+font-family: 'Playfair Display', serif;
+font-family: 'Playfair Display SC', serif;
+font-family: 'Quicksand', sans-serif; */
