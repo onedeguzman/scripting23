@@ -1,0 +1,23 @@
+header {
+    background-image: url('../pets1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+
+#serviceHeader {
+    background-image: url('../images/backgrounds/pexels-andrew-neel-2248516.jpg');
+}
+
+.bg-gray {
+    background-color: rgb(189, 189, 189);
+}
+
+.nav-link {
+    color: rgb(0, 73, 156) !important;
+    text-decoration: solid;
+}
+
+footer, i {
+    color: orangered;
+}
