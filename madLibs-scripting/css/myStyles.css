@@ -1,0 +1,60 @@
+span {
+    font-size: larger;
+    color: #38b6ff;
+    font-weight: bold;
+}
+
+#titleStory {
+    background-color: rgb(241, 226, 199);
+}
+
+#breedImage {
+    border-radius: 2%;
+}
+
+h2 {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'ABeeZee', sans-serif;
+    color: #38b6ff
+}
+
+.blue {
+    color: #38b6ff;
+}
+
+.abeezee {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 30px;
+}
+
+.abeezee span {
+    text-transform: capitalize;
+}
+
+.butterfly {
+    font-family: 'Butterfly Kids', cursive;
+}
+
+#filterbox {
+    border: 1px solid;
+    border-color: #38b6ff;
+}
+
+#filterbox input,select { 
+    border: 1px solid #38b6ff;
+}
+
+button {
+    border-color: #38b6ff;
+
+}
+
+button:hover {
+    background-color: #38b6ff;
+    box-shadow: 5px 5px 5px gray;
+}
+
+
+/* font-family: 'ABeeZee', sans-serif;
+font-family: 'Butterfly Kids', cursive; */
